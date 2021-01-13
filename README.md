@@ -1,4 +1,4 @@
-# portfolio-project
+# Black Box Game: A CS162 Project
 
 A class named BlackBoxGame for playing an abstract board game called Black Box.  You can see the rules [here](https://en.wikipedia.org/wiki/Black_Box_(game)).  It takes place on a 10x10 grid.  Rows 0 and 9, and columns 0 and 9 (border squares), are used by the guessing player for shooting rays into the black box.  The atoms are restricted to being within rows 1-8 and columns 1-8.
 
